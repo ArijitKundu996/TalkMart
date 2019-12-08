@@ -1,0 +1,45 @@
+/* Global Styles */
+body {
+	margin:0px;
+	background-color:black;
+	color:white;
+	}
+table{font:12px "verdana";}
+select,textarea,input{
+	width:200px;
+}
+a{color:white;	text-decoration: none; background-repeat:no-repeat;}
+a:hover{color:yellow;}
+
+/* ID Styles */
+#messagebar {background:url(message.jpg) repeat-x;height:25px; }
+
+#navigation a {
+	display:block;
+	padding-top:5px;
+	height:26px;
+	background-image:url(navigation.jpg);		
+	}
+
+#navigation td{
+	width:160px;
+ 	text-align: left;
+	text-indent:25px;
+	padding-bottom:3px;		
+}
+#navigation a:hover {
+	background-image:url(navhover.jpg);
+}
+
+
+
+
+/*Form styles*/
+
+
+
+/* Classses */
+
+
+
+
